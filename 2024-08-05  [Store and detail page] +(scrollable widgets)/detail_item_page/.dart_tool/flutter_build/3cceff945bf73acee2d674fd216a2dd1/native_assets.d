@@ -1,0 +1,1 @@
+ C:\\Eraasoft\ flutter\ course\\Applications\\detail_item_page\\.dart_tool\\flutter_build\\3cceff945bf73acee2d674fd216a2dd1\\native_assets.yaml: 

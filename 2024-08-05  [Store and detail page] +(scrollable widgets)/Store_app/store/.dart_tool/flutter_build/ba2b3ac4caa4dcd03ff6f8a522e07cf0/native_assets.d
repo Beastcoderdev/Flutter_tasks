@@ -1,0 +1,1 @@
+ C:\\Github\ repos\\Organized\ Flutter\ sources\ code\\Task\ 8\ [Store\ and\ detail\ page]\ +(scrollable\ widgets)\\Store_app\\store\\.dart_tool\\flutter_build\\ba2b3ac4caa4dcd03ff6f8a522e07cf0\\native_assets.yaml: 

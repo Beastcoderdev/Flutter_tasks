@@ -1,0 +1,1 @@
+ C:\\Github\ repos\\Organized\ Flutter\ sources\ code\\2024-08-19\ \ (Taskati)\\taskati\\.dart_tool\\flutter_build\\728436f0c790cd53c8abe24bc17fdc32\\native_assets.yaml: 
