@@ -1,0 +1,27 @@
+name: chat_app_ui
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_icon_class: ^0.0.6
+  flutter_svg: ^1.0.3
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.svg
+    - assets/user.png
+    - assets/user1.png
+    - assets/favourited.png
