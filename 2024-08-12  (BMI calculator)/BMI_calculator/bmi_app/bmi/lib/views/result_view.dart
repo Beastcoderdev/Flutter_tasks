@@ -32,7 +32,7 @@ class ResultView extends StatelessWidget {
       backgroundColor: AppColors.primary,
       appBar: AppBar(
         centerTitle: true,
-        title: Text("📃 BMI Results"),
+        title: const Text("📃 BMI Results"),
         foregroundColor: AppColors.white,
         backgroundColor: AppColors.primary,
       ),
